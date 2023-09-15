@@ -1,0 +1,11 @@
+{
+  "name": "GD Demonlist",
+  "desc": "An app for GD Demonlist (AKA Pointercrate)",
+  "url": "urlhere.com",
+  "encodedUrl": "no",
+  "icon": "https://pointercrate.com/static/images/logo.png",
+  "author": "GamerSimonGD",
+  "version": "v1.0.0",
+  "finderTerms": ["Demonlist","ranking","GD"],
+  "permissions": ["installApp"]
+}
