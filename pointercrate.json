@@ -1,11 +1,11 @@
 {
   "name": "GD Demonlist",
   "desc": "An app for GD Demonlist (AKA Pointercrate)",
-  "url": "urlhere.com",
+  "url": "https://pointercrate.com/demonlist/",
   "encodedUrl": "no",
-  "icon": "https://pointercrate.com/static/images/logo.png",
+  "icon": "https://redstone-nw.netlify.app/assets/icon.png",
   "author": "GamerSimonGD",
   "version": "v1.0.0",
-  "finderTerms": ["Demonlist","ranking","GD"],
+  "finderTerms": ["demonlist","GD","nice"],
   "permissions": ["installApp"]
 }
